@@ -3,6 +3,7 @@
 ### Major Tech Stocks: AAPL, AMZN, TSLA, and MSFT
 
 
+
 ## **Business Understandning**
 
 ### Business Objectives
@@ -10,6 +11,7 @@
 ### Situation Assessment
 
 ### Business Goals
+
 
 
 ## **Data Understanding**
@@ -21,6 +23,7 @@
 ### Verify Data Quality
 
 
+
 ## **Data Preparation**
 
 ### Data Cleaning
@@ -28,6 +31,7 @@
 ### Feature Engineering
 
 ### Integrate & Format
+
 
 
 ## **Modeling**
@@ -39,6 +43,7 @@
 ### Tune Parameters
 
 
+
 ## **Evaluation**
 
 ### Evaluate Results
@@ -46,6 +51,7 @@
 ### Review Process
 
 ### Next Steps
+
 
 
 ## **Deployment**
